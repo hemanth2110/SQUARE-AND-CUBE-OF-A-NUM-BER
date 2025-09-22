@@ -15,6 +15,7 @@ To write and execute an Assembly language program for finding the square of a gi
 4. The output square value is stored in Port 2 (P2).
 
 ## PROGRAM
+```
 ORG 00H
 MOV DPTR,#4500H
 MOVX A,@DPTR  
@@ -26,6 +27,7 @@ INC DPTR
 MOV A,B
 MOVX @DPTR,A
 END
+```
 
 ## OUTPUT
 <img width="1910" height="1018" alt="square1" src="https://github.com/user-attachments/assets/03968616-e596-4f52-8ae0-a0ac533a9249" />
@@ -52,6 +54,7 @@ To write and execute an Assembly language program for finding the cube of a give
 4. The output cube value is stored in a memory location.
 
 ## PROGRAM
+```
 ORG 00H
 MOV DPTR,#4500H
 MOVX A,@DPTR
@@ -66,6 +69,7 @@ INC DPTR
 MOV A,B
 MOVX @DPTR,A
 END
+```
 
 ## OUTPUT
 <img width="1919" height="1016" alt="31" src="https://github.com/user-attachments/assets/024b4bad-8cee-4679-9c7f-30662ce5bab3" />
