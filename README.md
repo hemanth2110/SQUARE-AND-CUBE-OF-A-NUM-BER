@@ -28,8 +28,8 @@ MOVX @DPTR,A
 END
 
 ## OUTPUT
-<img width="1919" height="1020" alt="Screenshot 2025-09-22 184246" src="https://github.com/user-attachments/assets/f2867d27-f0f1-496d-8b2e-0992333c9435" />
-<img width="746" height="509" alt="Screenshot 2025-09-22 184304" src="https://github.com/user-attachments/assets/d5d297c0-6cff-474c-be2a-acae591eb343" />
+<img width="1910" height="1018" alt="square1" src="https://github.com/user-attachments/assets/03968616-e596-4f52-8ae0-a0ac533a9249" />
+<img width="850" height="578" alt="2sq" src="https://github.com/user-attachments/assets/1eb2dcd5-c448-4791-a349-443bfdd9c069" />
 
 
 
@@ -68,8 +68,8 @@ MOVX @DPTR,A
 END
 
 ## OUTPUT
-<img width="1920" height="1080" alt="Screenshot 2025-09-22 191337" src="https://github.com/user-attachments/assets/ef8923c8-1027-4c7c-904f-4e745d37b33d" />
-<img width="762" height="504" alt="Screenshot 2025-09-22 191402" src="https://github.com/user-attachments/assets/7e76e565-a2a5-4fed-bfdc-929714da89fa" />
+<img width="1919" height="1016" alt="31" src="https://github.com/user-attachments/assets/024b4bad-8cee-4679-9c7f-30662ce5bab3" />
+<img width="654" height="482" alt="32" src="https://github.com/user-attachments/assets/c6d0a199-ffa8-46e4-8a4e-40ef8cdca8d4" />
 
 
 
